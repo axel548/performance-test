@@ -1,0 +1,3 @@
+Checks validate boolean conditions in your test. Testers often use checks to validate that the system is responding with the expected content. For example, a check could validate that a POST request has a response.status == 201, or that the body is of a certain size.
+.
+K6 documentation: https://k6.io/docs/using-k6/checks/

@@ -1,0 +1,3 @@
+Thresholds are the pass/fail criteria that you define for your test metrics. If the performance of the system under test (SUT) does not meet the conditions of your threshold, the test finishes with a failed status.
+.
+K6 documentation: https://k6.io/docs/using-k6/thresholds/
