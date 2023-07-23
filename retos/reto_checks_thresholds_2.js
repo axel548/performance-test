@@ -8,7 +8,7 @@ export const options = {
     http_req_failed: ["rate<0.35"],
     http_req_failed: [{
       threshold: "rate<0.35",
-      abortonFail: true,
+      abortonFail: false,
       delayAbortEval: "10s"
     }]
   }
